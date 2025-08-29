@@ -1,7 +1,3 @@
-Great — below is a **clear, numbered, step-by-step guide** to set up a kubeadm Kubernetes cluster on AWS EC2 **(one control-plane / master + one or more workers)** — **no shell scripts**, just one command / one manual edit at a time and explanation for each step. Run every command as `sudo` (or as root) unless stated otherwise.
-
----
-
 ## ⚠️ Prerequisites (before you start)
 
 1. **EC2 instances**
